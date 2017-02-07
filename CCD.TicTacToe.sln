@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCD.TicTacToe", "CCD.TicTacToe\CCD.TicTacToe.csproj", "{2FF78212-BCF4-4AEA-84EC-80F1CD2AF153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCD.TicTacToe.Tests", "CCD.TicTacToe.Tests\CCD.TicTacToe.Tests.csproj", "{070A15C9-07FD-44E4-9D98-C1A28909C0DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF78212-BCF4-4AEA-84EC-80F1CD2AF153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF78212-BCF4-4AEA-84EC-80F1CD2AF153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF78212-BCF4-4AEA-84EC-80F1CD2AF153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF78212-BCF4-4AEA-84EC-80F1CD2AF153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{070A15C9-07FD-44E4-9D98-C1A28909C0DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070A15C9-07FD-44E4-9D98-C1A28909C0DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070A15C9-07FD-44E4-9D98-C1A28909C0DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070A15C9-07FD-44E4-9D98-C1A28909C0DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://cptfs2013.cp.net:8080/tfs/spielwiesecollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CCD.TicTacToe.Tests\\CCD.TicTacToe.Tests.csproj
+		SccProjectName1 = CCD.TicTacToe.Tests
+		SccLocalPath1 = CCD.TicTacToe.Tests
+		SccProjectUniqueName2 = CCD.TicTacToe\\CCD.TicTacToe.csproj
+		SccProjectName2 = CCD.TicTacToe
+		SccLocalPath2 = CCD.TicTacToe
+	EndGlobalSection
+EndGlobal
